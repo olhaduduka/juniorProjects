@@ -7,7 +7,7 @@
 //	}
 //}
 
-// var studentNames = ["Alex", "Olya", "Masya", "Petya"];
+// var studentNames = ["Alex", "Olya", "Masya", "Pet"];
 // for (var i=0; i<4; i++) {
 //	console.log("Student name is " + studentNames[i]);
 //}
