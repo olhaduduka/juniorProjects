@@ -6,5 +6,7 @@ var human = {
   id: "",
 };
 var alex = human;
+var olya = human;
 alex.name = "Alex";
-console.log(human.name)
+olya.name = 'o';
+console.log(olya.name)
