@@ -1,0 +1,11 @@
+.rectangle {
+  width: 100px;
+  height: 20px;
+}
+
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
