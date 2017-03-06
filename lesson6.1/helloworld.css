@@ -1,0 +1,23 @@
+.diamond {
+  width: 200px;
+  height: 100px;
+}
+
+.circle{
+  width: 200px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.hi {
+  font-size: 50px;
+  color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.bgreen {
+  border-color: green;
+}
