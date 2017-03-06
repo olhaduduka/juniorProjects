@@ -5,7 +5,11 @@ var his = document.getElementsByTagName("h1"); // 50 font-size
 
 diamond.className = "diamond red";
 his[0].className = 'hi';
+circle[0].classList.add("bgreen");
 
+var span = document.createElement("span");
+span.innerText = "I love Alex"
+diamond.appendChild(span);
 
 // var rectangles = document.getElementsByTagName('');
 // for (var i=0; i<rectangles.length; i++) {
