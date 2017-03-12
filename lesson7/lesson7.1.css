@@ -1,0 +1,16 @@
+.circle{
+  width: 200px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+
+.bblue {
+  border: 1px solid blue;
+}
